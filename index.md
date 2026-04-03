@@ -2,7 +2,7 @@
 title: "HIS 337 US since 1945"
 layout: base
 date: 2025-10-21
-header-image: "/assets/images/sw-table.jpg"
+header-image: "/assets/images/twentieth-century-mural-1.jpg"
 header-title: US Culture & Society since 1945 
 header-subtitle: a class project template
 header-position: 35% center
