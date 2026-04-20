@@ -25,7 +25,7 @@ tabs:
     url: ../event-3/
 ---
 
-# The Merry Pranksters
+# Early Users of Microcomputers
 
 The story of chiles is fundamentally a story of people—farmers, traders, cooks, and communities who recognized something special in this fiery plant and made it their own.
 
