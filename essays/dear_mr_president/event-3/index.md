@@ -1,5 +1,5 @@
 ---
-title: "The Personal Computer"
+title: "Dear Mr. President"
 layout: scrollstory-tabs
 header-image: ../images/personal-computer.jpg
 header-title: "Dear Mr. President"
