@@ -2,7 +2,7 @@
 title: "The Personal Computer"
 layout: scrollstory-tabs
 header-image: ../images/personal-computer.jpg
-header-title: "The Personal Computer"
+header-title: "Dear Mr. President"
 thumbnail: ../images/personal-computer.jpg
 summary: A social and cultural history of the personal computer.
 tabs:
