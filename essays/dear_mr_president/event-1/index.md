@@ -25,7 +25,7 @@ tabs:
     url: ../event-3/
 ---
 
-# Early Users of Microcomputers
+# WWII and Civil Rights
 
 The story of chiles is fundamentally a story of people—farmers, traders, cooks, and communities who recognized something special in this fiery plant and made it their own.
 
@@ -57,7 +57,7 @@ These settlers adapted their growing techniques to the high desert climate, deve
   text=chile_origins_text
 %}
 
-## Modern Farmers and Preservationists
+## Comparison
 
 Today, a new generation of farmers works to preserve heirloom chile varieties while also developing new cultivars suited to changing conditions. Organizations dedicated to seed preservation ensure that rare varieties don't disappear, while agricultural researchers work to understand the genetics of heat, flavor, and disease resistance.
 

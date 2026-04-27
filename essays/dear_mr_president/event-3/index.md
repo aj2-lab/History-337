@@ -24,7 +24,7 @@ tabs:
     active: true
 ---
 
-# The Early Internet
+# The Bush Administration
 
 From ancient cultivation to modern cuisine, the chile's journey spans thousands of years.
 
@@ -54,7 +54,15 @@ From ancient cultivation to modern cuisine, the chile's journey spans thousands 
 
 **1600s–1700s** — Chiles spread through Africa, Asia, and Europe, transforming cuisines worldwide.
 
-## Modern Era (1800 – Present)
+{% include images/figure-wrap.html
+  image-path="../images/figure_1.jpg"
+  image-position="left"
+  image-width="50%"
+  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  text=chile_origins_text
+%}
+
+## Comparison
 
 **1912** — Wilbur Scoville develops the Scoville Scale to measure chile heat.
 

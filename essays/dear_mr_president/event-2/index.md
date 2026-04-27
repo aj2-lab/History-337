@@ -25,7 +25,7 @@ tabs:
     url: ../event-3/
 ---
 
-# The Impact of Apple
+# Poverty and Government
 
 From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture.
 
@@ -47,7 +47,15 @@ When chiles arrived in what is now New Mexico, they found a new home in the Rio 
 
 Towns like Hatch, Chimayó, and Española became synonymous with chile cultivation. Each developed distinct varieties adapted to local microclimates, creating a patchwork of regional flavors.
 
-## The Global Journey
+{% include images/figure-wrap.html
+  image-path="../images/figure_1.jpg"
+  image-position="left"
+  image-width="50%"
+  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  text=chile_origins_text
+%}
+
+## Comparison
 
 Within two centuries of Columbus, chiles had spread to nearly every continent. They found new homes in:
 - **India and Thailand**, where they transformed regional cuisines
@@ -57,6 +65,3 @@ Within two centuries of Columbus, chiles had spread to nearly every continent. T
 
 Each place shaped the chile, selecting for different characteristics and integrating it into local food cultures.
 
-## Modern Growing Regions
-
-Today, commercial chile production spans from New Mexico to California, from China to India. Climate change is shifting growing regions, pushing cultivation to new altitudes and latitudes as traditional areas become too hot or dry.
