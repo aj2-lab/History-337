@@ -49,6 +49,14 @@ When Spanish colonizers arrived in the Americas, Franciscan missionaries and ear
 
 These settlers adapted their growing techniques to the high desert climate, developing irrigation systems and cultivation practices that would define New Mexican agriculture for centuries.
 
+{% include images/figure-wrap.html
+  image-path="../images/figure_1.jpg"
+  image-position="left"
+  image-width="50%"
+  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  text=chile_origins_text
+%}
+
 ## Modern Farmers and Preservationists
 
 Today, a new generation of farmers works to preserve heirloom chile varieties while also developing new cultivars suited to changing conditions. Organizations dedicated to seed preservation ensure that rare varieties don't disappear, while agricultural researchers work to understand the genetics of heat, flavor, and disease resistance.
