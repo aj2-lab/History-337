@@ -7,7 +7,7 @@ thumbnail: images/Dear_mr_prez.jpg
 summary: A social and cultural history of the personal computer.
 tabs:
   - id: overview
-    label: Overview of the PC
+    label: Overview and Context
     url: ../
 
 
@@ -17,11 +17,11 @@ tabs:
     active: true
 
   - id: event-2
-    label: The Impact of Apple
+    label: Poverty and Government
     url: ../event-2/
 
   - id: event-3
-    label: The Early Internet
+    label: The Bush Administration
     url: ../event-3/
 ---
 

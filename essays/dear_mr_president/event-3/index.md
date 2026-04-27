@@ -7,7 +7,7 @@ thumbnail: ../images/personal-computer.jpg
 summary: A social and cultural history of the personal computer.
 tabs:
   - id: overview
-    label: Overview of the PC
+    label: Overview and Context
     url: ../
 
   - id: event-1
@@ -15,11 +15,11 @@ tabs:
     url: ../event-1/
 
   - id: event-2
-    label: The Impact of Apple
+    label: Poverty and Government
     url: ../event-2/
 
   - id: event-3
-    label: The Early Internet
+    label: The Bush Administration
     url: ../event-3/
     active: true
 ---
