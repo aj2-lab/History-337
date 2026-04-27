@@ -29,7 +29,7 @@ tabs:
 
 From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture.
 
-## Mesoamerican Origins
+## 4 Non Blondes
 
 Archaeological evidence points to the highlands of central Mexico as the birthplace of chile cultivation. Wild chiles still grow in these regions, their small, intensely hot fruits carried by birds who are immune to capsaicin. The volcanic soils and seasonal rainfall patterns of these areas created ideal conditions for the chile's evolution.
 
@@ -41,7 +41,7 @@ Archaeological evidence points to the highlands of central Mexico as the birthpl
   text=chile_origins_text
 %}
 
-## The Rio Grande Valley
+## Fitz and the Tantrums
 
 When chiles arrived in what is now New Mexico, they found a new home in the Rio Grande Valley. The combination of high elevation, intense sunlight, cool nights, and irrigation from the river created conditions that produced uniquely flavorful chiles.
 

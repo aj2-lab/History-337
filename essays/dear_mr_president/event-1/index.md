@@ -29,7 +29,7 @@ tabs:
 
 The story of chiles is fundamentally a story of people—farmers, traders, cooks, and communities who recognized something special in this fiery plant and made it their own.
 
-## Indigenous Cultivators
+## The Almanac Singers
 
 Long before European contact, Mesoamerican peoples had developed sophisticated agricultural techniques for growing chiles. The Aztecs, Maya, and other civilizations didn't just consume chiles—they bred them, selecting for specific flavor profiles, heat levels, and growing characteristics.
 
@@ -43,7 +43,7 @@ Long before European contact, Mesoamerican peoples had developed sophisticated a
 
 These early cultivators created the genetic foundation for every chile variety we know today. Their knowledge of when to plant, how to harvest, and which plants to save seeds from represented generations of accumulated wisdom.
 
-## Spanish Missionaries and Settlers
+## Happy Fats
 
 When Spanish colonizers arrived in the Americas, Franciscan missionaries and early settlers recognized the value of chiles almost immediately. They brought cultivated varieties northward along the Camino Real, establishing chile cultivation in what is now New Mexico by the late 1500s.
 

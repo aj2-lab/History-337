@@ -28,7 +28,7 @@ tabs:
 
 From ancient cultivation to modern cuisine, the chile's journey spans thousands of years.
 
-## Ancient History (7500 BCE – 1400 CE)
+## Pink
 
 **~7500 BCE** — Archaeological evidence suggests domestication of chiles begins in Mexico, making them one of the oldest cultivated crops in the Americas.
 
@@ -44,7 +44,7 @@ From ancient cultivation to modern cuisine, the chile's journey spans thousands 
   text=chile_origins_text
 %}
 
-## Colonial Era (1492 – 1800)
+## Fredwreck
 
 **1492** — Columbus encounters chiles in the Caribbean and mistakenly calls them "peppers," confusing them with black pepper.
 
