@@ -11,7 +11,7 @@ tabs:
     url: ../
 
   - id: event-1
-    label: Early Users of Microcomputers
+    label: WWII and Civil Rights
     url: ../event-1/
 
 
