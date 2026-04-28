@@ -37,7 +37,7 @@ From ancient cultivation to modern cuisine, the chile's journey spans thousands 
 **~1400 CE** — By the height of the Aztec Empire, chiles are essential to cuisine, medicine, and trade. Multiple varieties are cultivated for different purposes.
 
 {% include images/figure-wrap.html
-  image-path="../images/figure_1.jpg"
+  image-path="../images/Dear_Mr._President_II.jpeg"
   image-position="left"
   image-width="50%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
