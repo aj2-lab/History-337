@@ -31,7 +31,7 @@ The story of chiles is fundamentally a story of people—farmers, traders, cooks
 
 ## The Almanac Singers
 
-Long before European contact, Mesoamerican peoples had developed sophisticated agricultural techniques for growing chiles. The Aztecs, Maya, and other civilizations didn't just consume chiles—they bred them, selecting for specific flavor profiles, heat levels, and growing characteristics.
+The song supports US involvement in World War II, while still leveling some criticism to the US for issues such as Jim Crow. Although it does have some criticism, it is one of few Dear Mr. President songs where this is not the focus of it, with this song instead being supportive.
 
 {% include images/figure-wrap.html
   image-path="../images/Dear_mr_prez.jpeg"
@@ -45,9 +45,11 @@ These early cultivators created the genetic foundation for every chile variety w
 
 ## Happy Fats
 
-When Spanish colonizers arrived in the Americas, Franciscan missionaries and early settlers recognized the value of chiles almost immediately. They brought cultivated varieties northward along the Camino Real, establishing chile cultivation in what is now New Mexico by the late 1500s.
-
-These settlers adapted their growing techniques to the high desert climate, developing irrigation systems and cultivation practices that would define New Mexican agriculture for centuries.
+This source is a song by Leroy Leblanc, which is intended to be an argument against integration.
+It assumes its audience is white and anti-integration, as it appeals to such sensibilities as a
+primary argument, presenting the idea of integration as an absurd overreach by the government.
+It also reveals that some of the political music written in this form can be for the purpose of
+resisting change rather than calling for it.
 
 {% include images/figure-wrap.html
   image-path="../images/figure_1.jpg"

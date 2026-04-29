@@ -31,7 +31,7 @@ From wild origins in the Mexican highlands to cultivation across the globe, geog
 
 ## 4 Non Blondes
 
-Archaeological evidence points to the highlands of central Mexico as the birthplace of chile cultivation. Wild chiles still grow in these regions, their small, intensely hot fruits carried by birds who are immune to capsaicin. The volcanic soils and seasonal rainfall patterns of these areas created ideal conditions for the chile's evolution.
+This source is a song. It discusses the problems of government very generally, without specifically casting blame on any one figure, or making any specific demands. It does reference issues of the time, such as poverty and drug use.
 
 {% include images/figure-wrap.html
   image-path="../images/4_Non_Blondes_-_Bigger,_Better,_Faster,_More!.jpeg"
@@ -43,9 +43,7 @@ Archaeological evidence points to the highlands of central Mexico as the birthpl
 
 ## Fitz and the Tantrums
 
-When chiles arrived in what is now New Mexico, they found a new home in the Rio Grande Valley. The combination of high elevation, intense sunlight, cool nights, and irrigation from the river created conditions that produced uniquely flavorful chiles.
-
-Towns like Hatch, Chimayó, and Española became synonymous with chile cultivation. Each developed distinct varieties adapted to local microclimates, creating a patchwork of regional flavors.
+This source is a song. It focuses on the struggles of people in poverty, and how people are often unable to access necessities or receive help to improve their situation. Similarly to the song by 4 Non Blondes, it is not very specific in its critique, aiming at the larger problems of society rather than specific policies or figures. This reveals the variety of focuses that many political songs have in terms of scope, even in similar time periods, as Fredwreck’s song was released only 6 years prior to this one, and features much more specific, targeted critique.
 
 {% include images/figure-wrap.html
   image-path="../images/Pickin'_up_the_pieces.jpeg"

@@ -30,11 +30,7 @@ From ancient cultivation to modern cuisine, the chile's journey spans thousands 
 
 ## Pink
 
-**~7500 BCE** — Archaeological evidence suggests domestication of chiles begins in Mexico, making them one of the oldest cultivated crops in the Americas.
-
-**~3000 BCE** — Chiles become integrated into Mesoamerican agriculture alongside maize, beans, and squash.
-
-**~1400 CE** — By the height of the Aztec Empire, chiles are essential to cuisine, medicine, and trade. Multiple varieties are cultivated for different purposes.
+This source is a song. It primarily critiques issues around George. W. Bush and his policies. It reveals the attitudes that some had around these issues, and about music at the time as well. This song addresses the president directly, though is likely also aimed at a general audience in order to garner support for her perspectives on the issues she discusses, such as homelessness, homosexuality and the Iraq War.
 
 {% include images/figure-wrap.html
   image-path="../images/Dear_Mr._President_II.jpeg"
@@ -46,13 +42,7 @@ From ancient cultivation to modern cuisine, the chile's journey spans thousands 
 
 ## Fredwreck
 
-**1492** — Columbus encounters chiles in the Caribbean and mistakenly calls them "peppers," confusing them with black pepper.
-
-**1493** — Chiles arrive in Spain, beginning their global spread.
-
-**1598** — Spanish colonists bring cultivated chile varieties to New Mexico along the Camino Real.
-
-**1600s–1700s** — Chiles spread through Africa, Asia, and Europe, transforming cuisines worldwide.
+This source is a song. It is an anti-war song that opposes the Iraq War, and criticizes George Bush and his involvement, outright comparing him to Saddam Hussein. This source is written for an audience that likely includes those in poverty and African Americans, as issues faced by these people are brought up in the song to emphasize the point.
 
 {% include images/figure-wrap.html
   image-path="../images/figure_1.jpg"
