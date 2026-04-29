@@ -43,6 +43,9 @@ This source is a song. It discusses the problems of government very generally, w
 
 {% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
 
+[![TEST](https://img.youtube.com/vi/87HjsK10_74/0.jpg)](https://www.youtube.com/watch?v=87HjsK10_74)
+
+
 ## Fitz and the Tantrums
 
 This source is a song. It focuses on the struggles of people in poverty, and how people are often unable to access necessities or receive help to improve their situation. Similarly to the song by 4 Non Blondes, it is not very specific in its critique, aiming at the larger problems of society rather than specific policies or figures. This reveals the variety of focuses that many political songs have in terms of scope, even in similar time periods, as Fredwreck’s song was released only 6 years prior to this one, and features much more specific, targeted critique.
