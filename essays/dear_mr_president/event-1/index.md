@@ -41,6 +41,8 @@ The song supports US involvement in World War II, while still leveling some crit
   text=chile_origins_text
 %}
 
+{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+
 These early cultivators created the genetic foundation for every chile variety we know today. Their knowledge of when to plant, how to harvest, and which plants to save seeds from represented generations of accumulated wisdom.
 
 ## Happy Fats
@@ -58,6 +60,8 @@ resisting change rather than calling for it.
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
   text=chile_origins_text
 %}
+
+{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
 
 ## Comparison
 

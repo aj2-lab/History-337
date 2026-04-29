@@ -40,6 +40,8 @@ This source is a song. It primarily critiques issues around George. W. Bush and 
   text=chile_origins_text
 %}
 
+{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+
 ## Fredwreck
 
 This source is a song. It is an anti-war song that opposes the Iraq War, and criticizes George Bush and his involvement, outright comparing him to Saddam Hussein. This source is written for an audience that likely includes those in poverty and African Americans, as issues faced by these people are brought up in the song to emphasize the point.
@@ -51,6 +53,8 @@ This source is a song. It is an anti-war song that opposes the Iraq War, and cri
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
   text=chile_origins_text
 %}
+
+{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
 
 ## Comparison
 
