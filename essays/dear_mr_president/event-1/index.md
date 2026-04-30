@@ -41,9 +41,9 @@ The song supports US involvement in World War II, while still leveling some crit
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+{% include typography/pullquote.html text="\"TEXT HERE.\"" %}
 
-These early cultivators created the genetic foundation for every chile variety we know today. Their knowledge of when to plant, how to harvest, and which plants to save seeds from represented generations of accumulated wisdom.
+This source is an article that discusses the stance of the Communist Party during World War II. It notes that after the Nazi-Soviet pact, and the attack on Pearl Harbor, the party discouraged strikes, and instead supported US involvement in the war. This source can provide some context for the song by the Almanac Singers, who were supporters of the labor movement, and whose song echoes these sentiments expressed by the party.[^1]
 
 ## Happy Fats
 
@@ -63,8 +63,13 @@ resisting change rather than calling for it.
 
 {% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
 
+This source is a scholarly journal article about anti-black country music in the 1960s. It discusses elements used in this music, and how these served to dehumanize African-Americans and justify segregation. Among the songs looked at, the text includes the Happy Fats song as well.[^2]
+
 ## Comparison
 
 Today, a new generation of farmers works to preserve heirloom chile varieties while also developing new cultivars suited to changing conditions. Organizations dedicated to seed preservation ensure that rare varieties don't disappear, while agricultural researchers work to understand the genetics of heat, flavor, and disease resistance.
 
 The people of the chile continue to shape its story.
+
+[^1]: Seidman, Joel. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 55–69. https://doi.org/10.2307/2519321. 
+[^2]: Messner, Beth A., Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Hate: A Sociological Analysis of Country Hate Music," Popular Music and Society 30, no. 4 (2007): 513-531. https://libproxy.unm.edu/login?url=https://www.proquest.com/scholarly-journals/hardest-hate-sociological-analysis-country-music/docview/1339125/se-2. 
