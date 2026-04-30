@@ -35,9 +35,11 @@ importance onto, and how acceptable these ideas were to the general public.
 
 ## Writing to the President
 
-Political letter writing has long been a tradition in America, and has been an important way for citizens to make their voice heard. However, it is not always utilized even when it might be effective, unless it is encouraged[^1]. 
+Political letter writing has long been a tradition in America, and has been an important way for citizens to make their voice heard. However, it is to a degree, underutilized[^1]. 
 
+Nonethelesss, such letters allow the president to gauge public opinion and, this can influence desiscions as a result, similar to opinion polling 451
 
+This tradition began primarily as a result of a combination of factors, such as  453
 
 ---
 
