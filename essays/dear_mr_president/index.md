@@ -37,10 +37,12 @@ importance onto, and how acceptable these ideas were to the general public.
 
 Political letter writing has long been a tradition in America, and has been an important way for citizens to make their voice heard. However, it is to a degree, underutilized[^1]. 
 
-Nonethelesss, such letters allow the president to gauge public opinion and, this can influence desiscions as a result, similar to opinion polling 451
+Nonethelesss, such letters allow the president to gauge public opinion and, this can influence desiscions as a result, similar to opinion polling[^2].
 
-This tradition began primarily as a result of a combination of factors, such as  453
+This tradition began primarily as a result of a combination of factors, such as[^3].  453
 
 ---
 
-[^1]: Rottinghaus, Brandon. “‘Dear Mr. President’: The Institutionalization and Politicization of Public Opinion Mail in the White House.” Political Science Quarterly 121, no. 3 (2006): 451–76. http://www.jstor.org/stable/20202727. 
+[^1]: Rottinghaus, Brandon. “‘Dear Mr. President’: The Institutionalization and Politicization of Public Opinion Mail in the White House.” Political Science Quarterly 121, no. 3 (2006): 451
+[^2]: Rottinghaus, Brandon. “‘Dear Mr. President’: The Institutionalization and Politicization of Public Opinion Mail in the White House.” Political Science Quarterly 121, no. 3 (2006): 451
+[^3]: Rottinghaus, Brandon. “‘Dear Mr. President’: The Institutionalization and Politicization of Public Opinion Mail in the White House.” Political Science Quarterly 121, no. 3 (2006): 453
