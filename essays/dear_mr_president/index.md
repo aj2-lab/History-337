@@ -39,7 +39,7 @@ Political letter writing has long been a tradition in America, and has been an i
 
 Nonethelesss, such letters allow the president to gauge public opinion and, this can influence desiscions as a result, similar to opinion polling[^2].
 
-This tradition began primarily as a result of a combination of factors, such as[^3].
+This tradition began primarily as a result of "an awareness of the need to understand trends in public opinion and the concurrent rise of internal analysis of public opinion polling".[^3]
 
 ---
 
