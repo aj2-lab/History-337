@@ -24,7 +24,7 @@ tabs:
     url: event-3/
 ---
 
-# Overview of Political Music
+# Overview
 
 I argue that political music addressed to the president
 represents a tradition of political letter writing, and can be used to understand shifting political opinions
@@ -35,11 +35,15 @@ importance onto, and how acceptable these ideas were to the general public.
 
 ## Writing to the President
 
-Political letter writing has long been a tradition in America, and has been an important way for citizens to make their voice heard. However, it is to a degree, underutilized[^1]. 
+Political letter writing has long been a tradition in America, and has been an important way for citizens to make their voice heard. However, it is to a degree, underutilized[^1]. Nonethelesss, such letters allow the president to gauge public opinion and, this can influence desiscions as a result, similar to opinion polling[^2]. This tradition began primarily as a result of "an awareness of the need to understand trends in public opinion and the concurrent rise of internal analysis of public opinion polling".[^3]
 
-Nonethelesss, such letters allow the president to gauge public opinion and, this can influence desiscions as a result, similar to opinion polling[^2].
+ADD TEXT
 
-This tradition began primarily as a result of "an awareness of the need to understand trends in public opinion and the concurrent rise of internal analysis of public opinion polling".[^3]
+It's no wonder then why so many musicians were influenced by this tradition in the structure of their songs.
+
+## Political Music
+
+Just as voicing one's opinion directly to the president has been an important aspect of politics in America, music has also been as well. Political music has 
 
 ---
 
