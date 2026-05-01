@@ -29,6 +29,7 @@ tabs:
 From ancient cultivation to modern cuisine, the chile's journey spans thousands of years.
 
 ## Pink
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wmMS9XVIa00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This source is a song. It primarily critiques issues around George. W. Bush and his policies. It reveals the attitudes that some had around these issues, and about music at the time as well. This song addresses the president directly, though is likely also aimed at a general audience in order to garner support for her perspectives on the issues she discusses, such as homelessness, homosexuality and the Iraq War.
 
@@ -43,6 +44,7 @@ This source is a song. It primarily critiques issues around George. W. Bush and 
 {% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
 
 ## Fredwreck
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8TZAMeC9znw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This source is a song. It is an anti-war song that opposes the Iraq War, and criticizes George Bush and his involvement, outright comparing him to Saddam Hussein. This source is written for an audience that likely includes those in poverty and African Americans, as issues faced by these people are brought up in the song to emphasize the point.
 

@@ -30,6 +30,7 @@ tabs:
 From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture.
 
 ## 4 Non Blondes
+<iframe width="560" height="315" src="https://www.youtube.com/embed/87HjsK10_74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This source is a song. It discusses the problems of government very generally, without specifically casting blame on any one figure, or making any specific demands. It does reference issues of the time, such as poverty and drug use.
 
@@ -39,7 +40,7 @@ This source is a song. It discusses the problems of government very generally, w
   image-width="50%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
   text=chile_origins_text
-%} <iframe width="560" height="315" src="https://www.youtube.com/embed/87HjsK10_74?si=PjjaOMcHRphCgJcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+%} 
 
 {% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
 
@@ -48,6 +49,7 @@ This source is a song. It discusses the problems of government very generally, w
 
 
 ## Fitz and the Tantrums
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HrGq1Zmfnvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This source is a song. It focuses on the struggles of people in poverty, and how people are often unable to access necessities or receive help to improve their situation. Similarly to the song by 4 Non Blondes, it is not very specific in its critique, aiming at the larger problems of society rather than specific policies or figures. This reveals the variety of focuses that many political songs have in terms of scope, even in similar time periods, as Fredwreck’s song was released only 6 years prior to this one, and features much more specific, targeted critique.
 
