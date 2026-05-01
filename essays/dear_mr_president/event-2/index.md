@@ -1,7 +1,7 @@
 ---
 title: "Dear Mr. President"
 layout: scrollstory-tabs
-header-image: ../images/personal-computer.jpg
+header-image: ../images/capitol-building-washington-dc-usa-congress-thumb-1459632093.jpg
 header-title: "Dear Mr. President"
 thumbnail: ../images/personal-computer.jpg
 summary: A social and cultural history of the personal computer.
