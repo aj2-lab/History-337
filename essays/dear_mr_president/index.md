@@ -1,7 +1,7 @@
 ---
 title: "Dear Mr. President"
 layout: scrollstory-tabs
-header-image: images/Dear_mr_prez.jpeg
+header-image: images/photo-of-person-writing-on-notebook-834897.jpg
 header-title: "Dear Mr. President"
 thumbnail: images/Dear_mr_prez.jpeg
 summary: A social and cultural history of the personal computer.
