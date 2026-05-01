@@ -4,7 +4,7 @@ layout: scrollstory-tabs
 header-image: ../images/us-president-george-w-bush-center-waves-to-the-crowd-from-midfield-escorted-d1fc52-640.jpg
 header-title: "Dear Mr. President"
 thumbnail: ../images/personal-computer.jpg
-summary: A social and cultural history of the personal computer.
+summary: Songs called "Dear Mr. President" and their place in politics and music over time.
 tabs:
   - id: overview
     label: Overview and Context

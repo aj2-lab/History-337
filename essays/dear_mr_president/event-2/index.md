@@ -4,7 +4,7 @@ layout: scrollstory-tabs
 header-image: ../images/capitol-building-washington-dc-usa-congress-thumb-1459632093.jpg
 header-title: "Dear Mr. President"
 thumbnail: ../images/personal-computer.jpg
-summary: A social and cultural history of the personal computer.
+summary: Songs called "Dear Mr. President" and their place in politics and music over time.
 tabs:
   - id: overview
     label: Overview and Context
