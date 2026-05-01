@@ -30,7 +30,7 @@ tabs:
 The story of chiles is fundamentally a story of people—farmers, traders, cooks, and communities who recognized something special in this fiery plant and made it their own.
 
 ## The Almanac Singers
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZqRKoIJXGLg" title="Dear Mr. President" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZqRKoIJXGLg" title="Dear Mr. President" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
 
 The song supports US involvement in World War II, while still leveling some criticism to the US for issues such as Jim Crow. Although it does have some criticism, it is one of few Dear Mr. President songs where this is not the focus of it, with this song instead being supportive.
@@ -48,7 +48,7 @@ The song supports US involvement in World War II, while still leveling some crit
 This source is an article that discusses the stance of the Communist Party during World War II. It notes that after the Nazi-Soviet pact, and the attack on Pearl Harbor, the party discouraged strikes, and instead supported US involvement in the war. This source can provide some context for the song by the Almanac Singers, who were supporters of the labor movement, and whose song echoes these sentiments expressed by the party.[^1]
 
 ## Happy Fats
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sLkX2q-phXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sLkX2q-phXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
 
 This source is a song by Leroy Leblanc, which is intended to be an argument against integration.
