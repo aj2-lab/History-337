@@ -58,7 +58,7 @@ It also reveals that some of the political music written in this form can be for
 resisting change rather than calling for it.
 
 {% include images/figure-wrap.html
-  image-path="../images/figure_1.jpg"
+  image-path="../images/R-2872612-1542068362-8686.jpg"
   image-position="left"
   image-width="50%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
